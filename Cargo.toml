@@ -1,7 +1,7 @@
 [package]
 name = "rf-woofer"
 version = "1.0.0"
-authors = ["PancakeTAS <pancake@mgnet.work>", "Zebreus <zebreus@zebre.us>"]
+authors = ["PancakeTAS <pancake@mgnet.work>"]
 edition = "2021"
 
 [profile.release]

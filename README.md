@@ -46,3 +46,7 @@ In general, the `type` field specifies the device type (`socket` or `collar`), a
   - For vibration and shock, specify `intensity` (0-100) and `duration` (in milliseconds) in addition to the action type `vibration` or `shock`.
   - For beep, no additional parameters are needed beyond the action type `beep`.
   - For light, specify `state` and action type `light`.
+
+## Credits
+
+Large parts of the codebase originate from [Zebreus/serialcaixianlin](https://github.com/zebreus/serialcaixianlin/).
